@@ -1,6 +1,6 @@
 def city(city):
-    print("Eu sou da {city}")
+    print(f"Eu sou da {city}")
 
 def name(name):
-	print("O meu nome é {name}")
+	print(f"O meu nome é {name}")
 
