@@ -1,6 +1,5 @@
-def say_hi(name="Inês Alves"):
-    print('Hi, my name is {name}.')
+def ola(nome):
+	return nome 
 
-def city(city="Porto"):
-    print("I'm from{city}")
-
+def idade(idade):
+	return idade
