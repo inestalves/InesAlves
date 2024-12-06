@@ -1,6 +1,6 @@
-def city(city):
-    print(f"Eu sou da {city}")
+def say_hi(name="Inês Alves"):
+    print('Hi, my name is {name}.')
 
-def name(name):
-	print(f"O meu nome é {name}")
+def city(city="Porto"):
+    print("I'm from{city}")
 
